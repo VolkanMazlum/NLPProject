@@ -1,6 +1,6 @@
 # Cornell Movie Dialog Dataset Analysis
 
-This repository contains a comprehensive project analyzing the **Cornell Movie Dialog Dataset**, focusing on Natural Language Processing (NLP) techniques and machine learning models. The project explores conversational patterns, dialogue generation, metadata predictions, and chatbot development.
+This repository contains a comprehensive project analyzing the **Cornell Movie Dialog Dataset**, focusing on Natural Language Processing (NLP) techniques and machine learning models. The project explores conversational patterns, dialogue generation, metadata predictions, and chatbot development. It is a group project from Politecnico di Milano
 
 ## Dataset
 
